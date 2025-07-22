@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/LearnOpenGL.dir/src/glad.c.obj"
+  "CMakeFiles/LearnOpenGL.dir/src/glad.c.obj.d"
   "CMakeFiles/LearnOpenGL.dir/src/main.cpp.obj"
   "CMakeFiles/LearnOpenGL.dir/src/main.cpp.obj.d"
   "LearnOpenGL.exe"
@@ -8,6 +10,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
+foreach(lang C CXX)
   include(CMakeFiles/LearnOpenGL.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

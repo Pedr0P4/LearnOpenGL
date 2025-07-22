@@ -4,5 +4,11 @@
   "command": "C:\\MinGW\\mingw_14.2\\mingw64\\bin\\g++.exe  @CMakeFiles/LearnOpenGL.dir/includes_CXX.rsp -g -o CMakeFiles\\LearnOpenGL.dir\\src\\main.cpp.obj -c C:\\Users\\pedro\\OneDrive\\Documentos\\LearnOpenGL\\src\\main.cpp",
   "file": "C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/src/main.cpp",
   "output": "CMakeFiles/LearnOpenGL.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/build",
+  "command": "C:\\MinGW\\mingw_14.2\\mingw64\\bin\\gcc.exe  @CMakeFiles/LearnOpenGL.dir/includes_C.rsp -g -o CMakeFiles\\LearnOpenGL.dir\\src\\glad.c.obj -c C:\\Users\\pedro\\OneDrive\\Documentos\\LearnOpenGL\\src\\glad.c",
+  "file": "C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/src/glad.c",
+  "output": "CMakeFiles/LearnOpenGL.dir/src/glad.c.obj"
 }
 ]
