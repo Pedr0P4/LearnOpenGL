@@ -1,0 +1,3 @@
+C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/build/CMakeFiles/LearnOpenGL.dir
+C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/build/CMakeFiles/edit_cache.dir
+C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/build/CMakeFiles/rebuild_cache.dir
