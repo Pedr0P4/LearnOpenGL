@@ -1,5 +1,5 @@
 CMakeFiles/LearnOpenGL.dir/src/main.cpp.obj: \
- C:\Users\pedro\OneDrive\Documentos\LearnOpenGL\src\main.cpp \
+ C:\Users\Pedro\ Paulo\Documents\LearnOpenGL\src\main.cpp \
  C:/MinGW/mingw_14.2/mingw64/include/c++/14.2.0/iostream \
  C:/MinGW/mingw_14.2/mingw64/include/c++/14.2.0/bits/requires_hosted.h \
  C:/MinGW/mingw_14.2/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -144,8 +144,8 @@ CMakeFiles/LearnOpenGL.dir/src/main.cpp.obj: \
  C:/MinGW/mingw_14.2/mingw64/include/c++/14.2.0/bits/ostream.tcc \
  C:/MinGW/mingw_14.2/mingw64/include/c++/14.2.0/istream \
  C:/MinGW/mingw_14.2/mingw64/include/c++/14.2.0/bits/istream.tcc \
- C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/include/glad/glad.h \
- C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/include/KHR/khrplatform.h \
+ C:/Users/PEDROP~1/DOCUME~1/LEARNO~1/include/glad/glad.h \
+ C:/Users/PEDROP~1/DOCUME~1/LEARNO~1/include/KHR/khrplatform.h \
  C:/MinGW/mingw_14.2/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
  C:/MinGW/mingw_14.2/mingw64/x86_64-w64-mingw32/include/stdint.h \
- C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/include/GLFW/glfw3.h
+ C:/Users/PEDROP~1/DOCUME~1/LEARNO~1/include/GLFW/glfw3.h

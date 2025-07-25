@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "LearnOpenGL::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-LearnOpenGL-Debug-51e5533427c3cb48a386.json",
+					"jsonFile" : "target-LearnOpenGL-Debug-40f44ae74dabdef20a54.json",
 					"name" : "LearnOpenGL",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/build",
-		"source" : "C:/Users/pedro/OneDrive/Documentos/LearnOpenGL"
+		"build" : "C:/Users/Pedro Paulo/Documents/LearnOpenGL/build",
+		"source" : "C:/Users/Pedro Paulo/Documents/LearnOpenGL"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 8
+		"minor" : 7
 	}
 }

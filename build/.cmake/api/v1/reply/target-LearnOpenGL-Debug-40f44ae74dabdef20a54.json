@@ -65,7 +65,7 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/include"
+					"path" : "C:/Users/Pedro Paulo/Documents/LearnOpenGL/include"
 				}
 			],
 			"language" : "CXX",
@@ -85,7 +85,7 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/include"
+					"path" : "C:/Users/Pedro Paulo/Documents/LearnOpenGL/include"
 				}
 			],
 			"language" : "C",
@@ -105,8 +105,12 @@
 				"role" : "flags"
 			},
 			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\pedro\\OneDrive\\Documentos\\LearnOpenGL\\lib\\libglfw3.a",
+				"fragment" : "\"C:\\Users\\Pedro Paulo\\Documents\\LearnOpenGL\\lib\\libglfw3.a\"",
 				"role" : "libraries"
 			},
 			{

@@ -8,34 +8,34 @@
 		},
 		"paths" : 
 		{
-			"cmake" : "C:/Program Files/CMake/bin/cmake.exe",
-			"cpack" : "C:/Program Files/CMake/bin/cpack.exe",
-			"ctest" : "C:/Program Files/CMake/bin/ctest.exe",
-			"root" : "C:/Program Files/CMake/share/cmake-4.1"
+			"cmake" : "C:/MinGW/mingw_14.2/mingw64/bin/cmake.exe",
+			"cpack" : "C:/MinGW/mingw_14.2/mingw64/bin/cpack.exe",
+			"ctest" : "C:/MinGW/mingw_14.2/mingw64/bin/ctest.exe",
+			"root" : "C:/MinGW/mingw_14.2/mingw64/share/cmake-3.30"
 		},
 		"version" : 
 		{
 			"isDirty" : false,
-			"major" : 4,
-			"minor" : 1,
-			"patch" : 0,
-			"string" : "4.1.0-rc2",
-			"suffix" : "rc2"
+			"major" : 3,
+			"minor" : 30,
+			"patch" : 4,
+			"string" : "3.30.4",
+			"suffix" : ""
 		}
 	},
 	"objects" : 
 	[
 		{
-			"jsonFile" : "codemodel-v2-e3fdacacb8365d5c96ab.json",
+			"jsonFile" : "codemodel-v2-45ce1d114706c3f685ea.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
 				"major" : 2,
-				"minor" : 8
+				"minor" : 7
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-3aff071fe404873c812a.json",
+			"jsonFile" : "cache-v2-c7ca2a57d4b2d978b906.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-5d6571541b207fdbf194.json",
+			"jsonFile" : "cmakeFiles-v1-2aeac9c43ccb201654f5.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -90,7 +90,7 @@
 				"responses" : 
 				[
 					{
-						"jsonFile" : "cache-v2-3aff071fe404873c812a.json",
+						"jsonFile" : "cache-v2-c7ca2a57d4b2d978b906.json",
 						"kind" : "cache",
 						"version" : 
 						{
@@ -99,12 +99,12 @@
 						}
 					},
 					{
-						"jsonFile" : "codemodel-v2-e3fdacacb8365d5c96ab.json",
+						"jsonFile" : "codemodel-v2-45ce1d114706c3f685ea.json",
 						"kind" : "codemodel",
 						"version" : 
 						{
 							"major" : 2,
-							"minor" : 8
+							"minor" : 7
 						}
 					},
 					{
@@ -117,7 +117,7 @@
 						}
 					},
 					{
-						"jsonFile" : "cmakeFiles-v1-5d6571541b207fdbf194.json",
+						"jsonFile" : "cmakeFiles-v1-2aeac9c43ccb201654f5.json",
 						"kind" : "cmakeFiles",
 						"version" : 
 						{

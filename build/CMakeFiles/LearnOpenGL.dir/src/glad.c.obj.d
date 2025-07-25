@@ -1,5 +1,5 @@
 CMakeFiles/LearnOpenGL.dir/src/glad.c.obj: \
- C:\Users\pedro\OneDrive\Documentos\LearnOpenGL\src\glad.c \
+ C:\Users\Pedro\ Paulo\Documents\LearnOpenGL\src\glad.c \
  C:/MinGW/mingw_14.2/mingw64/x86_64-w64-mingw32/include/stdio.h \
  C:/MinGW/mingw_14.2/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  C:/MinGW/mingw_14.2/mingw64/x86_64-w64-mingw32/include/corecrt.h \
@@ -23,8 +23,8 @@ CMakeFiles/LearnOpenGL.dir/src/glad.c.obj: \
  C:/MinGW/mingw_14.2/mingw64/x86_64-w64-mingw32/include/errno.h \
  C:/MinGW/mingw_14.2/mingw64/x86_64-w64-mingw32/include/string.h \
  C:/MinGW/mingw_14.2/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
- C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/include/glad/glad.h \
- C:/Users/pedro/OneDrive/Documentos/LearnOpenGL/include/KHR/khrplatform.h \
+ C:/Users/PEDROP~1/DOCUME~1/LEARNO~1/include/glad/glad.h \
+ C:/Users/PEDROP~1/DOCUME~1/LEARNO~1/include/KHR/khrplatform.h \
  C:/MinGW/mingw_14.2/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
  C:/MinGW/mingw_14.2/mingw64/x86_64-w64-mingw32/include/stdint.h \
  C:/MinGW/mingw_14.2/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
